@@ -15,6 +15,13 @@ namespace GitHub
             int sum = x + y;
             return sum;
         }
-      
+        public int sub()
+        {
+            int x = 10;
+            int y = 20;
+            int sum = x - y;
+            return sum;
+        }
+
     }
 }
